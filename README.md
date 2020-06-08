@@ -1,2 +1,2 @@
-# how-to-play-RL-custom-maps
-Several guides for playing custom Rocket League maps with your friends! :D
+# Hvordan spille custom Rocket League maps med venner!
+This repo contains several guides for how to play custom Rocket League maps with your friends
